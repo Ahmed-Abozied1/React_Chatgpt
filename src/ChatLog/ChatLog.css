@@ -1,0 +1,27 @@
+.chat-log{
+   padding: 24px;
+   display: flex;
+   text-align: left;
+
+
+}
+.chat-message{
+  padding: 12px;
+  display: flex;
+  padding-left:  24px ;
+  padding-right: 24px;
+  max-width: 470px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.avatar{
+    background: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.message{
+margin-left: 40px;
+}
